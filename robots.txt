@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iyoojahca.veganised.co.uk/sitemap.xml
